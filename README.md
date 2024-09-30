@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jeel Patel
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python
-- 📫 How to reach me s22cpjeel107@gmain.com
+- 📫 How to reach me darkcoding11@gmail.com
